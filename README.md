@@ -21,7 +21,7 @@ To view locally run `npm start` in your command line.
 Run `npm start` in your command line and open http://localhost:3001/ or visit the deployed site [here.](https://gettin-techy.herokuapp.com/)
 
 The main homepage should look similar to:
-![Image of website](https://github.com/ngranzow/track-your-budget/main/images/Budget-Tracker.png)
+![Image of website](https://raw.githubusercontent.com/ngranzow/track-your-budget/main/images/Budget-Tracker.png)
 
 ## License 
 To read the ISC license click [here](https://opensource.org/licenses/ISC)
